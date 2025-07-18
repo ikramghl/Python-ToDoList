@@ -32,20 +32,20 @@ This project includes two versions of a simple To-Do List application written in
 ##  Screenshots
 
 - CLI Version
-Adding and Viewing Tasks
+**Adding and Viewing Tasks**
 <br>
 <img src="todocli1.png" alt="CLI Adding and Viewing Tasks" width="700">
 
-Marking Tasks as Done
+**Marking Tasks as Done**
 <br>
 <img src="todocli2.png" alt="CLI Marking Task Done" width="700">
 
 - GUI Version
-Light Mode
+**Light Mode**
 <br>
 <img src="todolightmode.png" alt="GUI Light Mode" width="700">
 
-Dark Mode
+**Dark Mode**
 <br>
 <img src="tododarkmode.png" alt="GUI Dark Mode" width="700">
 
