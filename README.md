@@ -8,18 +8,21 @@ This project includes two versions of a simple To-Do List application written in
 
 ## Features
 
-###  GUI Version
--  Add, check/uncheck, and remove tasks
--  Light/Dark mode toggle
--  Tasks saved to `tasks.txt` (persist between sessions)
-
 ###  CLI Version
 -  View all tasks in the terminal
 -  Add new tasks
 -  Edit task descriptions
 -  Remove tasks by number
 -  Mark/unmark as done
+-  Tasks saved to `tasks.txt` (persist between sessions)
+
+  
+###  GUI Version
+-  Add, check/uncheck, and remove tasks
+-  Light/Dark mode toggle
 -  Saves tasks to the same `tasks.txt` file
+
+
 
 ---
 
@@ -32,6 +35,8 @@ This project includes two versions of a simple To-Do List application written in
 ##  Screenshots
 
 - CLI Version
+
+  
 **Adding and Viewing Tasks**
 <br>
 <img src="todocli1.png" alt="CLI Adding and Viewing Tasks" width="700">
@@ -41,6 +46,8 @@ This project includes two versions of a simple To-Do List application written in
 <img src="todocli2.png" alt="CLI Marking Task Done" width="700">
 
 - GUI Version
+
+
 **Light Mode**
 <br>
 <img src="todolightmode.png" alt="GUI Light Mode" width="700">
