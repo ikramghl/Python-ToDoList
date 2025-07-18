@@ -30,7 +30,7 @@ This project includes two versions of a simple To-Do List application written in
 
 - Python 3.13
 - Visual Studio Code for writing and editing the code
-- `tkinter` (comes pre-installed with Python)
+- tkinter (comes pre-installed with Python)
 
 ##  Screenshots
 
