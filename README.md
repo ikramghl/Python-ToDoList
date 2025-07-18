@@ -26,10 +26,10 @@ This project includes two versions of a simple To-Do List application written in
 
 ---
 
-##  Requirements
+##  Tools
 
 - Python 3.13
-- No external packages needed
+- Visual Studio Code for writing and editing the code
 - `tkinter` (comes pre-installed with Python)
 
 ##  Screenshots
