@@ -25,7 +25,7 @@ This project includes two versions of a simple To-Do List application written in
 
 ##  Requirements
 
-- Python 3.x
+- Python 3.13
 - No external packages needed
 - `tkinter` (comes pre-installed with Python)
 
